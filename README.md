@@ -1,10 +1,12 @@
 # 💫 About Me:
 ### I’m currently working on
-AI/ML projects involving LLMs, RAG pipelines, and deep learning models, along with research and teaching support in Distributed Systems at Concordia University.<br>
+AI/ML projects involving LLMs, RAG pipelines, and deep learning models, along with research and teaching support in Distributed Systems at Concordia University.
 ### I’m looking to collaborate on 
-Projects related to AI applications, LLM-powered tools, ML model deployment, and data-driven platforms.<br><br>I’m looking for help with<br>Advanced MLOps practices, scalable ML deployment, and optimizing LLM workflows in production.<br>
+Projects related to AI applications, LLM-powered tools, ML model deployment, and data-driven platforms.
+### I’m looking for help with
+Advanced MLOps practices, scalable ML deployment, and optimizing LLM workflows in production.
 ### I’m currently learning
-MLOps, advanced LLM architectures, model optimization, and scalable AI deployment using AWS SageMaker and Bedrock.<br>
+MLOps, advanced LLM architectures, model optimization, and scalable AI deployment using AWS SageMaker and Bedrock.
 ### Ask me about
 Machine Learning, Deep Learning, NLP, Vision Transformers, LangChain, RAG systems, and AI-powered automation.
 ### Fun fact
