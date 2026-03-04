@@ -1,5 +1,14 @@
 # 💫 About Me:
-I’m currently working on<br>AI/ML projects involving LLMs, RAG pipelines, and deep learning models, along with research and teaching support in Distributed Systems at Concordia University.<br><br>I’m looking to collaborate on<br>Projects related to AI applications, LLM-powered tools, ML model deployment, and data-driven platforms.<br><br>I’m looking for help with<br>Advanced MLOps practices, scalable ML deployment, and optimizing LLM workflows in production.<br><br>I’m currently learning<br>MLOps, advanced LLM architectures, model optimization, and scalable AI deployment using AWS SageMaker and Bedrock.<br><br>Ask me about<br>Machine Learning, Deep Learning, NLP, Vision Transformers, LangChain, RAG systems, and AI-powered automation.<br><br>Fun fact<br>I enjoy turning complex AI concepts into practical tools—from converting presentations into AI-generated video courses to building intelligent ML pipelines.
+### I’m currently working on
+AI/ML projects involving LLMs, RAG pipelines, and deep learning models, along with research and teaching support in Distributed Systems at Concordia University.<br>
+### I’m looking to collaborate on 
+Projects related to AI applications, LLM-powered tools, ML model deployment, and data-driven platforms.<br><br>I’m looking for help with<br>Advanced MLOps practices, scalable ML deployment, and optimizing LLM workflows in production.<br>
+### I’m currently learning
+MLOps, advanced LLM architectures, model optimization, and scalable AI deployment using AWS SageMaker and Bedrock.<br>
+### Ask me about
+Machine Learning, Deep Learning, NLP, Vision Transformers, LangChain, RAG systems, and AI-powered automation.
+### Fun fact
+I enjoy turning complex AI concepts into practical tools—from converting presentations into AI-generated video courses to building intelligent ML pipelines.
 
 
 ## 🌐 Socials:
